@@ -26,3 +26,6 @@ I am actively seeking a PhD position, with a particular interest in programs at 
 <a href="https://github.com/AnzhiZhang/MCDReforgedPlugins">
   <img align="center" alt="MCDReforgedPlugins" src="https://github-readme-stats.vercel.app/api/pin/?hide_border=true&theme=transparent&username=AnzhiZhang&repo=MCDReforgedPlugins" />
 </a>
+<a href="https://github.com/AnzhiZhang/ChatHub">
+  <img align="center" alt="ChatHub" src="https://github-readme-stats.vercel.app/api/pin/?hide_border=true&theme=transparent&username=AnzhiZhang&repo=ChatHub" />
+</a>
