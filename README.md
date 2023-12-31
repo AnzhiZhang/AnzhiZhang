@@ -1,4 +1,4 @@
-<!-- markdownlint-disable MD033 MD041 -->
+<!-- markdownlint-disable MD033 MD036 MD041 -->
 ### Hello! I'm Andy Zhang
 
 [![Blog](https://img.shields.io/badge/Blog-Anbdy's%20Blog-brightgreen)](https://blog.zhanganzhi.com/)
@@ -10,13 +10,31 @@ I am a student studying Computer Science.
 
 I am actively seeking a PhD position, with a particular interest in programs at UC Berkeley, Stanford, MIT, CMU, and others.
 
-<code><img height="20" alt="java" src="https://raw.githubusercontent.com/github/explore/main/topics/java/java.png"></code>
-<code><img height="20" alt="python" src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png"></code>
-<code><img height="20" alt="javascript" src="https://raw.githubusercontent.com/github/explore/main/topics/javascript/javascript.png"></code>
-<code><img height="20" alt="typescript" src="https://raw.githubusercontent.com/github/explore/main/topics/typescript/typescript.png"></code>
+### My GitHub Stats
 
 | <img align="center" alt="Andy Zhang's Github Stats" src="https://github-readme-stats.vercel.app/api?username=AnzhiZhang&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&theme=transparent" /> | <img align="center" alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnzhiZhang&hide_border=true&layout=compact&theme=transparent&exclude_repo=AnzhiZhang.github.io" /> |
 | - | - |
+
+### My Skills
+
+**Languages**
+
+![Skills Languages](https://skillicons.dev/icons?i=c,cpp,css,html,java,js,latex,md,py,regex,sass,ts)
+
+**Softwares & Tools**
+
+![Skills Softwares](https://skillicons.dev/icons?i=discord,git,idea,nginx,nodejs,ps,postman,powershell,pr,vim,vscode)
+![Skills Online](https://skillicons.dev/icons?i=cloudflare,github,githubactions,linkedin,stackoverflow,vercel)
+![Skills Tools](https://skillicons.dev/icons?i=docker,gradle,maven)
+
+**Frameworks**
+
+![Skills Frameworks](https://skillicons.dev/icons?i=fastapi,flask,nuxtjs,spring,vue)
+
+**Others**
+
+![Skills OS](https://skillicons.dev/icons?i=arduino,linux,raspberrypi)
+![Skills Databases](https://skillicons.dev/icons?i=kafka,mysql,postgres,redis,sqlite)
 
 ### Top Repositories
 
