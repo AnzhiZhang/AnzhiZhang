@@ -17,7 +17,7 @@ I am actively seeking a PhD position, with a particular interest in programs at 
 
 ### My Skills
 
-**Languages**
+**Programming Languages**
 
 ![Skills Languages](https://skillicons.dev/icons?i=c,cpp,css,html,java,js,latex,md,py,regex,sass,ts)
 
